@@ -1,0 +1,13 @@
+.dockerignore
+tests
+.gitignore
+README.md
+requirements.txt
+.idea
+.run
+.coverage
+.pytest_cache
+.github
+.terraform
+main.py
+setup.cfg
